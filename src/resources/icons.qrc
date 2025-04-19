@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/保存.png</file>
+    <file>icons/打开.png</file>
+    <file>icons/错误.png</file>
+    <file>icons/正确.png</file>
+    <file>icons/照相机.png</file>
+    <file>icons/导出.png</file>
+    <file>icons/后跳.png</file>
+    <file>icons/快进.png</file>
+    <file>icons/end_clip.png</file>
+    <file>icons/start_clip.png</file>
+    <file>icons/播放.png</file>
+    <file>icons/处理中.png</file>
+    <file>icons/大窗.png</file>
+    <file>icons/待处理.png</file>
+    <file>icons/关闭.png</file>
+    <file>icons/关闭音量.png</file>
+    <file>icons/列表收起.png</file>
+    <file>icons/搜索.png</file>
+    <file>icons/缩小.png</file>
+    <file>icons/太空望远镜.png</file>
+    <file>icons/通过.png</file>
+    <file>icons/下载.png</file>
+    <file>icons/向右.png</file>
+    <file>icons/向左.png</file>
+    <file>icons/小窗.png</file>
+    <file>icons/音量.png</file>
+    <file>icons/暂停.png</file>
+  </qresource>
+</RCC>
